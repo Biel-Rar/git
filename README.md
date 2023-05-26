@@ -1,3 +1,3 @@
 # git
-primeiro lugra voce some 2 lugar vira homem
+primeiro lugar você some ,2 lugar vira homem
 # git
