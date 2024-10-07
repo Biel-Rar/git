@@ -1,3 +1,3 @@
 # git
-primeiro lugar você some ,2 lugar vira homem
+primeiro lugar você Some,2 lugar vira homem
 # git
